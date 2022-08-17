@@ -1,0 +1,26 @@
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #fff;
+}
+
+nav {
+  display: flex;
+  height: 80px;
+  text-align: center;
+}
+
+.logo {
+  margin-left: 215px;
+  margin-right: 90px;
+  font-family: "Raleway", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 31px;
+  letter-spacing: 0.03em;
+  color: #2196f3;
+}
+
+.logo > span {
+  color: #000000;
+}
